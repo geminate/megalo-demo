@@ -4,10 +4,6 @@
 
 使用 megalo 开发3合1小程序 的测试demo
 
-## 作者
-
-geminate <1061036802@qq.com>
-
 ## 运行
 
 微信小程序：
@@ -27,3 +23,7 @@ npm run dev:alipay
 ```bash
 npm run dev:swan
 ```
+
+## 踩坑记录
+
+- 样式不支持标签选择器
